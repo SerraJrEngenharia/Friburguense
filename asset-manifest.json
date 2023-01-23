@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Friburguense/static/css/main.572feb33.chunk.css",
-    "main.js": "/Friburguense/static/js/main.aa14eb00.chunk.js",
-    "main.js.map": "/Friburguense/static/js/main.aa14eb00.chunk.js.map",
+    "main.js": "/Friburguense/static/js/main.f0545aad.chunk.js",
+    "main.js.map": "/Friburguense/static/js/main.f0545aad.chunk.js.map",
     "runtime-main.js": "/Friburguense/static/js/runtime-main.0903b7be.js",
     "runtime-main.js.map": "/Friburguense/static/js/runtime-main.0903b7be.js.map",
     "static/css/2.efb12bfd.chunk.css": "/Friburguense/static/css/2.efb12bfd.chunk.css",
@@ -36,6 +36,6 @@
     "static/css/2.efb12bfd.chunk.css",
     "static/js/2.6b52fb0b.chunk.js",
     "static/css/main.572feb33.chunk.css",
-    "static/js/main.aa14eb00.chunk.js"
+    "static/js/main.f0545aad.chunk.js"
   ]
 }
